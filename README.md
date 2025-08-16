@@ -35,8 +35,8 @@ This repository showcases a complete SQL-based backend architecture for a **Hype
 ---
 ## 🖼️ Application Screenshots
 
-![Screenshot](./Screenshots/img_01.png)
-![Screenshot](./Screenshots/img-02.png)
+![Screenshot](./ScreenShots/img_01.png)
+![Screenshot](./ScreenShots/img-02.png)
 
 
 
